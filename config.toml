@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "John Doe · Landing Page"
+title = "Lalit Kumar"
 
 _merge = "none"
 
@@ -22,7 +22,7 @@ _merge = "none"
   posts = "posts/:slug/"
 
 [params]
-  author = "John Doe"
+  author = "Lalit Kumar"
   # email does still work but is deprecated.
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
